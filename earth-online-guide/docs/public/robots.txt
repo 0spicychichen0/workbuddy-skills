@@ -1,0 +1,5 @@
+# 地球Online指南
+User-agent: *
+Allow: /
+
+Sitemap: https://eartholguide.com/sitemap.xml

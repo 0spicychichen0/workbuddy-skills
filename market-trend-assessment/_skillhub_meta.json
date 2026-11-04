@@ -1,0 +1,13 @@
+{
+  "name": "大盘走势研判",
+  "installedAt": 1786580731140,
+  "source": "marketplace",
+  "version": "1.0.1",
+  "skillId": "skill_2076627841600368640",
+  "examples_zh": [
+    "帮我研判今天的大盘走势，用短线情绪流模式"
+  ],
+  "description_zh": "A股大盘走势研判，三套框架：短线情绪流、周线阶段论、行为金融。",
+  "description_en": "A-share market trend assessment with 3 frameworks: sentiment flow, stage theory, behavioral finance.",
+  "iconSource": "letter:auto"
+}

@@ -1,0 +1,250 @@
+{
+  "/images/cooking/congee.jpg": {
+    "src": "/images/cooking/congee.jpg",
+    "webp": "/images/cooking/congee.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/fried-egg.jpg": {
+    "src": "/images/cooking/fried-egg.jpg",
+    "webp": "/images/cooking/fried-egg.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/frozen-dumplings.jpg": {
+    "src": "/images/cooking/frozen-dumplings.jpg",
+    "webp": "/images/cooking/frozen-dumplings.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/knife-skills.jpg": {
+    "src": "/images/cooking/knife-skills.jpg",
+    "webp": "/images/cooking/knife-skills.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/noodles.jpg": {
+    "src": "/images/cooking/noodles.jpg",
+    "webp": "/images/cooking/noodles.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/soup.jpg": {
+    "src": "/images/cooking/soup.jpg",
+    "webp": "/images/cooking/soup.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/steam-rice.jpg": {
+    "src": "/images/cooking/steam-rice.jpg",
+    "webp": "/images/cooking/steam-rice.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/steamed-egg-custard.jpg": {
+    "src": "/images/cooking/steamed-egg-custard.jpg",
+    "webp": "/images/cooking/steamed-egg-custard.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/cooking/stir-fried-greens.jpg": {
+    "src": "/images/cooking/stir-fried-greens.jpg",
+    "webp": "/images/cooking/stir-fried-greens.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/change-lock.jpg": {
+    "src": "/images/housework/change-lock.jpg",
+    "webp": "/images/housework/change-lock.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/clean-ac.jpg": {
+    "src": "/images/housework/clean-ac.jpg",
+    "webp": "/images/housework/clean-ac.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/clean-washer.jpg": {
+    "src": "/images/housework/clean-washer.jpg",
+    "webp": "/images/housework/clean-washer.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/laundry.jpg": {
+    "src": "/images/housework/laundry.jpg",
+    "webp": "/images/housework/laundry.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/mopping.jpg": {
+    "src": "/images/housework/mopping.jpg",
+    "webp": "/images/housework/mopping.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/smart-lock.jpg": {
+    "src": "/images/housework/smart-lock.jpg",
+    "webp": "/images/housework/smart-lock.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/unclog-toilet.jpg": {
+    "src": "/images/housework/unclog-toilet.jpg",
+    "webp": "/images/housework/unclog-toilet.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/housework/underwear.jpg": {
+    "src": "/images/housework/underwear.jpg",
+    "webp": "/images/housework/underwear.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/mascot/home-hero.png": {
+    "src": "/images/mascot/home-hero.png",
+    "webp": "/images/mascot/home-hero.webp",
+    "width": 1040,
+    "height": 646,
+    "srcset": "/images/mascot/home-hero-520.webp 520w, /images/mascot/home-hero.webp 1040w",
+    "sizes": "(min-width: 960px) 520px, min(460px, 100vw)"
+  },
+  "/images/mascot/section.png": {
+    "src": "/images/mascot/section.png",
+    "webp": "/images/mascot/section.webp",
+    "width": 630,
+    "height": 780
+  },
+  "/images/mascot/shopping.png": {
+    "src": "/images/mascot/shopping.png",
+    "webp": "/images/mascot/shopping.webp",
+    "width": 680,
+    "height": 780
+  },
+  "/images/medical/health-checkup.jpg": {
+    "src": "/images/medical/health-checkup.jpg",
+    "webp": "/images/medical/health-checkup.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/medical/medical-insurance.jpg": {
+    "src": "/images/medical/medical-insurance.jpg",
+    "webp": "/images/medical/medical-insurance.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/medical/registration.jpg": {
+    "src": "/images/medical/registration.jpg",
+    "webp": "/images/medical/registration.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/renting/contract-pitfalls.jpg": {
+    "src": "/images/renting/contract-pitfalls.jpg",
+    "webp": "/images/renting/contract-pitfalls.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/renting/deposit-moveout.jpg": {
+    "src": "/images/renting/deposit-moveout.jpg",
+    "webp": "/images/renting/deposit-moveout.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/renting/finding-a-place.jpg": {
+    "src": "/images/renting/finding-a-place.jpg",
+    "webp": "/images/renting/finding-a-place.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/renting/moving-process.jpg": {
+    "src": "/images/renting/moving-process.jpg",
+    "webp": "/images/renting/moving-process.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/renting/viewing-checklist.jpg": {
+    "src": "/images/renting/viewing-checklist.jpg",
+    "webp": "/images/renting/viewing-checklist.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/shopping/online-shopping-after.jpg": {
+    "src": "/images/shopping/online-shopping-after.jpg",
+    "webp": "/images/shopping/online-shopping-after.webp",
+    "width": 1400,
+    "height": 1867
+  },
+  "/images/shopping/online-shopping-before.jpg": {
+    "src": "/images/shopping/online-shopping-before.jpg",
+    "webp": "/images/shopping/online-shopping-before.webp",
+    "width": 1400,
+    "height": 1867
+  },
+  "/images/shopping/online-shopping-during.jpg": {
+    "src": "/images/shopping/online-shopping-during.jpg",
+    "webp": "/images/shopping/online-shopping-during.webp",
+    "width": 1400,
+    "height": 1867
+  },
+  "/images/travel/bus.jpg": {
+    "src": "/images/travel/bus.jpg",
+    "webp": "/images/travel/bus.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/flight.jpg": {
+    "src": "/images/travel/flight.jpg",
+    "webp": "/images/travel/flight.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/high-speed-rail.jpg": {
+    "src": "/images/travel/high-speed-rail.jpg",
+    "webp": "/images/travel/high-speed-rail.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/hotel.jpg": {
+    "src": "/images/travel/hotel.jpg",
+    "webp": "/images/travel/hotel.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/lost-documents.jpg": {
+    "src": "/images/travel/lost-documents.jpg",
+    "webp": "/images/travel/lost-documents.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/metro.jpg": {
+    "src": "/images/travel/metro.jpg",
+    "webp": "/images/travel/metro.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/taxi.jpg": {
+    "src": "/images/travel/taxi.jpg",
+    "webp": "/images/travel/taxi.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/tickets-bus.jpg": {
+    "src": "/images/travel/tickets-bus.jpg",
+    "webp": "/images/travel/tickets-bus.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/tickets-flight.jpg": {
+    "src": "/images/travel/tickets-flight.jpg",
+    "webp": "/images/travel/tickets-flight.webp",
+    "width": 1400,
+    "height": 788
+  },
+  "/images/travel/tickets-train.jpg": {
+    "src": "/images/travel/tickets-train.jpg",
+    "webp": "/images/travel/tickets-train.webp",
+    "width": 1400,
+    "height": 788
+  }
+}

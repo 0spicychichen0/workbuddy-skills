@@ -1,0 +1,12 @@
+{
+  "name": "东方财富妙想综合诊基",
+  "installedAt": 1786580751315,
+  "source": "marketplace",
+  "version": "1.2.0",
+  "skillId": "skill_2082786516033880064",
+  "description_zh": "面向公募基金的单基金综合诊断能力。适用于用户提出“这只基金怎么样”“适不适合继续持有”“风险和收益特征如何”等泛化问题时，返回结构化的Markdown诊断报告。每次仅分析一只基金，不处理多基金对比与量化建模。触发核心条件：用户问法为概括性诊断，未要求具体指标公式计算或回测建模。\n标签",
+  "description_en": "A comprehensive diagnostic capability for individual publicly offered funds (mutual funds). Triggered when a user asks a general, open-ended question — such as \"How is this fund?\", \"Is it suitable to continue holding?\", or \"What are its risk and return characteristics?\" — it returns a structured diagnostic report in Markdown. Only one fund is analyzed per request; multi-fund comparisons and quantitative modeling are not supported. Core trigger condition: the query is a general diagnostic request that does not require specific indicator formula calculations or backtest modeling.",
+  "iconSource": "https://openplatform-cdn.codebuddy.cn/public/852eadde-1318-4d58-9880-b97ef76baeea/avatar/skill/au_dae394d6-2f1.png",
+  "iconLocalPath": "C:\\Users\\df\\.workbuddy\\skills\\fund-diagnosis\\_icon.png",
+  "iconDownloadedFrom": "https://openplatform-cdn.codebuddy.cn/public/852eadde-1318-4d58-9880-b97ef76baeea/avatar/skill/au_dae394d6-2f1.png"
+}

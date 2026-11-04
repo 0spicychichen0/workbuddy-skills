@@ -1,0 +1,12 @@
+{
+  "name": "东方财富妙想宏观查询",
+  "installedAt": 1786580751910,
+  "source": "marketplace",
+  "version": "2.0.1",
+  "skillId": "skill_2082782627892539392",
+  "description_zh": "基于东方财富数据库，支持自然语言查询全球宏观经济数据，涵盖国民经济核算、价格指数、货币金融、财政收支、对外贸易、就业民生、产业运行等多个领域，适配各类宏观经济研究、市场分析、政策解读等多元专业场景需求。返回结果包含数据说明及 csv 文件。",
+  "description_en": "Natural language query for macroeconomic data from financial databases, covering national economic accounting, price indices, monetary finance, fiscal revenue and expenditure, foreign trade, employment, industrial operation, and other fields. It supports diverse scenarios including macroeconomic research, market analysis, and policy interpretation.",
+  "iconSource": "https://openplatform-cdn.codebuddy.cn/public/852eadde-1318-4d58-9880-b97ef76baeea/avatar/skill/au_dacf844e-657.png",
+  "iconLocalPath": "C:\\Users\\df\\.workbuddy\\skills\\mx-macro-data\\_icon.png",
+  "iconDownloadedFrom": "https://openplatform-cdn.codebuddy.cn/public/852eadde-1318-4d58-9880-b97ef76baeea/avatar/skill/au_dacf844e-657.png"
+}

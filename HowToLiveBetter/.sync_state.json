@@ -1,0 +1,19 @@
+{
+  "skill": "HowToLiveBetter",
+  "repo": "eternity4719/HowToLiveBetter",
+  "branch": "main",
+  "synced_sha": "e2605d3e",
+  "prev_sha": "5f210ca9",
+  "synced_at": "2026-10-26T09:58:11",
+  "kept_local": [
+    "SKILL.md 顶层入口（上游已移除，本地保留以保证技能可识别）",
+    ".git"
+  ],
+  "stats": {
+    "added": 9,
+    "modified": 34,
+    "unchanged": 288
+  },
+  "backup": "E:\\WorkBuddyData\\.workbuddy\\skills_backup\\20261026_095811_HowToLiveBetter_5f210ca9",
+  "tarball_bytes": 2927852
+}
